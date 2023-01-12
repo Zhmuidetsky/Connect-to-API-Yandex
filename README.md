@@ -1,1 +1,2 @@
-# Connect-to-API-Yandex
+# Connect-to-API-Yandex  
+Набор готовых конструкций для подключения к API Яндекс Метрики и Яндекс Директа
